@@ -6,7 +6,7 @@ import java.awt.Color;
 /**
  * 
  */
-public class MyWorld extends World
+gfhfghdfghdgfdfghdfghdfghdfghdfgdfbvnerzgnfb rhm fbn fgbnr  h   ^3zregfhpublic class MyWorld extends World
 {
 
     /**
